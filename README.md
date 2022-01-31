@@ -12,5 +12,6 @@ Here are some ideas to get you started: -->
 - 🤔 I’m looking for help with robotics and automation
 - 💬 Ask me about quadcopters and self driving cars
 - 📫 How to reach me:[LinkedIn](www.linkedin.com/in/soumo-roy)
-- ⚡ Fun fact: ...
+- ⚡ Education: ECE undergrad student-VIT vellore
+- 
 [![Soumo Roy's github stats](https://github-readme-stats.vercel.app/api?username=s0um0r0y&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
