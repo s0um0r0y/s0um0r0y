@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 
 
 - 🔭 I’m currently working on quadcopters and autonomous vehicles
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning motion planning and computer vision
 - 👯 I’m looking to collaborate with undergraduate research students
 - 🤔 I’m looking for help with robotics :robot: and automation :mechanical_arm:
 - 💬 Ask me about quadcopters and self driving cars :blue_car:
