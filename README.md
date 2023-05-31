@@ -7,11 +7,11 @@
 Here are some ideas to get you started: -->
 
 
-- 🔭 I’m currently working on quadcopters and autonomous vehicles
-- 🌱 I’m currently learning motion planning and computer vision
+- 🔭 I’m currently working on mobile robots and collaborative robots
+- 🌱 I’m currently learning computer vision
 - 👯 I’m looking to collaborate with undergraduate research students
 - 🤔 I’m looking for help with robotics :robot: and automation :mechanical_arm:
-- 💬 Ask me about quadcopters and self driving cars :blue_car:
+- 💬 Ask me about mobile robots and manipulators
 - 📫 How to reach me:[LinkedIn](www.linkedin.com/in/soumo-roy)
 - ⚡ Education: ECE undergrad student-VIT vellore
 
