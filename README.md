@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Soumo Roy</h1>
-<h3 align="center">A Robotics and AI research engineer from India</h3>
+<h3 align="center">A Robotics and AI research engineer</h3>
 
-- 🔭 I’m currently working on **assistive robotics**
+- 🔭 I’m currently working on **path planning for assistive robotics**
 
 - 🌱 I’m currently learning **Deep learning**
 
-- 👯 I’m looking to collaborate on **open source AI/ML projects**
+- 👯 I’m looking to collaborate on **open source AI/ML and robotics projects**
 
 - 👨‍💻 All of my projects are available at [https://s0um0r0y.github.io/](https://s0um0r0y.github.io/)
 
 - 📫 How to reach me **soumoroy09@gmail.com**
 
-- ⚡ Fun fact **I am a nocturnal person**
+- ⚡ Fun fact **I am a nocturnal person and a hardcore coffee fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
