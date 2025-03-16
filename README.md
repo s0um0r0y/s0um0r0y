@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumo Roy</h1>
-<h3 align="center">A Robotics and AI research engineer</h3>
+<h3 align="center">A Robotics and AI Research Engineer</h3>
 
 - 🔭 I’m currently working on **path planning for assistive robotics**
 
