@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://s0um0r0y.github.io/](https://s0um0r0y.github.io/)
 
-- 📫 How to reach me **soumoroy09@gmail.com**
+- 📫 How to reach me **[linkedin DM](https://linkedin.com/in/soumo-roy)**
 
 - ⚡ Fun fact **I am a nocturnal person and a hardcore coffee fan**
 
