@@ -28,3 +28,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s0um0r0y&" alt="s0um0r0y" /></p>
 
+[![Soumo ROy's GitHub stats](https://github-readme-stats.vercel.app/api?username=s0um0r0y&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/s0um0r0y)
+
