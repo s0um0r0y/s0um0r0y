@@ -26,7 +26,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=s0um0r0y&show_icons=true&locale=en&layout=compact" alt="s0um0r0y" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s0um0r0y&" alt="s0um0r0y" /></p>
+[![Soumo Roy's GitHub Streak](https://streak-stats.demolab.com?user=s0um0r0y&theme=tokyonight)](https://github.com/s0um0r0y)
 
-[![Soumo ROy's GitHub stats](https://github-readme-stats.vercel.app/api?username=s0um0r0y&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/s0um0r0y)
+[![Soumo Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=s0um0r0y&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/s0um0r0y)
 
