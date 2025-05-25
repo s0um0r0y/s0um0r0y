@@ -11,12 +11,9 @@
 
 -  How to reach me **[linkedin DM](https://linkedin.com/in/soumo-roy)**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s0um0r0y&label=Profile%20views&color=0e75b6&style=flat" alt="s0um0r0y" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/soumo-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumo-roy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@soumoroy7160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@soumoroy7160" height="30" width="40" /></a>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/s0um0r0y/count.svg" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
