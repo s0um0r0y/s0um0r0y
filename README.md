@@ -1,6 +1,5 @@
-<h1 align="center">Hello there, The name is Roy, Soumo Roy</h1>
-<h3 align="center">A Robotics and AI Research Engineer</h3>
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+![Beige Feminine Personal LinkedIn Banner](https://github.com/user-attachments/assets/8621d77b-ad15-4adb-bb9b-b99b0ca45992)
 
 -  I’m currently working on **path planning for assistive robotics**
 
