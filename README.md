@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Soumo Roy</h1>
+<h1 align="center">Hello there, The name is Roy, Soumo Roy</h1>
 <h3 align="center">A Robotics and AI Research Engineer</h3>
 
-- 🔭 I’m currently working on **path planning for assistive robotics**
+-  I’m currently working on **path planning for assistive robotics**
 
-- 🌱 I’m currently learning **Deep learning**
+-  I’m currently learning **Deep learning**
 
-- 👯 I’m looking to collaborate on **open source AI/ML and robotics projects**
+-  I’m looking to collaborate on **open source AI/ML and robotics projects**
 
-- 👨‍💻 All of my projects are available at [https://s0um0r0y.github.io/](https://s0um0r0y.github.io/)
+-  All of my projects are available at [https://s0um0r0y.github.io/](https://s0um0r0y.github.io/)
 
-- 📫 How to reach me **[linkedin DM](https://linkedin.com/in/soumo-roy)**
-
-- ⚡ Fun fact **I am a nocturnal person and a hardcore coffee fan**
+-  How to reach me **[linkedin DM](https://linkedin.com/in/soumo-roy)**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s0um0r0y&label=Profile%20views&color=0e75b6&style=flat" alt="s0um0r0y" /> </p>
 
@@ -29,4 +27,10 @@
 [![Soumo Roy's GitHub Streak](https://streak-stats.demolab.com?user=s0um0r0y&theme=tokyonight)](https://github.com/s0um0r0y)
 
 [![Soumo Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=s0um0r0y&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/s0um0r0y)
+
+## Soumo Roy's Activity Graph :
+
+<br>
+
+[![Soumo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=s0um0r0y&custom_title=Soumo's%20activity&hide_border=true&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
