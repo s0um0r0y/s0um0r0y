@@ -1,7 +1,7 @@
 
 ![Beige Feminine Personal LinkedIn Banner](https://github.com/user-attachments/assets/8621d77b-ad15-4adb-bb9b-b99b0ca45992)
 
--  I’m currently working on **path planning for assistive robotics and computer vision for dynamic obstacle segmentation**
+-  I’m currently working on **path planning for assistive robots and computer vision for dynamic obstacle segmentation**
 
 -  I’m currently learning **Deep learning based approaches for robotics**
 
