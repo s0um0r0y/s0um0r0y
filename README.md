@@ -3,7 +3,7 @@
 
 -  I’m currently working on **computer vision for dynamic obstacle segmentation**
 
--  I’m currently learning **Deep learning based approaches for robotics**
+-  I’m currently learning **deep learning based approaches for robotics**
 
 -  I’m looking to collaborate on **open source AI/ML and robotics projects**
 
