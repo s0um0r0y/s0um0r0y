@@ -1,13 +1,11 @@
 
 ![Beige Feminine Personal LinkedIn Banner](https://github.com/user-attachments/assets/8621d77b-ad15-4adb-bb9b-b99b0ca45992)
 
--  I’m currently working on **path planning for assistive robotics**
+-  I’m currently working on **path planning for assistive robotics and computer vision for dynamic obstacle segmentation**
 
--  I’m currently learning **Deep learning**
+-  I’m currently learning **Deep learning based approaches for robotics**
 
 -  I’m looking to collaborate on **open source AI/ML and robotics projects**
-
--  All of my projects are available at [https://s0um0r0y.github.io/](https://s0um0r0y.github.io/)
 
 -  How to reach me **[linkedin DM](https://linkedin.com/in/soumo-roy)**
 
@@ -35,7 +33,6 @@
 </p>
 
 ## Soumo Roy's Activity Graph :
-
 <br>
 
 [![Soumo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=s0um0r0y&custom_title=Soumo's%20activity&hide_border=true&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
