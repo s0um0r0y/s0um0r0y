@@ -16,14 +16,14 @@
   ![](https://github.com/coderkai03/stats/blob/master/generated/languages.svg)
   
 </div>
-
+<!--
 | **GitHub Activity Graph** | **GitHub Stats** |
 |---|---|
 | ![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=s0um0r0y&theme=tokyo-night&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2) | ![stats](https://github-readme-stats.vercel.app/api?username=s0um0r0y&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2) |
-
 | **Top Languages** | **Current Streak** |
 |---|---|
 | ![top-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s0um0r0y&theme=tokyonight&layout=compact&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2) | ![streak](https://github-readme-streak-stats.herokuapp.com?user=s0um0r0y&theme=tokyonight&hide_border=true&background=00000000&stroke=34E6F2&ring=34E6F2&fire=34E6F2&currStreakLabel=C4DBE0&sideNums=C4DBE0&currStreakNum=34E6F2&dates=C4DBE0&sideLabels=C4DBE0) |
+-->
 
 ### Connect With Me
 
