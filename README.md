@@ -38,9 +38,9 @@
   <a href="https://github.com/s0um0r0y">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32"/>
   </a>
-<!--  <a href="https://leetcode.com/sarvajeeth21417/">
+  <a href="https://leetcode.com/s0um0r0y/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=d16c06" height="32"/>
-  </a> -->
+  </a>
 <a href="https://s0um0r0y.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" height="32"/>
   </a>
