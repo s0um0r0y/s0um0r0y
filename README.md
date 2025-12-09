@@ -16,16 +16,26 @@
   ![](https://github.com/coderkai03/stats/blob/master/generated/languages.svg)
   
 </div>
-
 <!--
 | **GitHub Activity Graph** | **GitHub Stats** |
 |---|---|
 | ![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=s0um0r0y&theme=tokyo-night&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2) | ![stats](https://github-readme-stats.vercel.app/api?username=s0um0r0y&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2) |
-
 | **Top Languages** | **Current Streak** |
 |---|---|
 | ![top-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s0um0r0y&theme=tokyonight&layout=compact&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2) | ![streak](https://github-readme-streak-stats.herokuapp.com?user=s0um0r0y&theme=tokyonight&hide_border=true&background=00000000&stroke=34E6F2&ring=34E6F2&fire=34E6F2&currStreakLabel=C4DBE0&sideNums=C4DBE0&currStreakNum=34E6F2&dates=C4DBE0&sideLabels=C4DBE0) |
 -->
+
+<table>
+  <!-- <tr>
+    <td colspan = "2"><img width=100% src="https://github-profile-trophy.vercel.app/?username=saivishwak&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></td>
+  </tr>
+	<tr>
+		<td colspan = "2"><img src="https://github-readme-activity-graph.vercel.app/graph?username=saivishwak&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></td>
+	</tr> -->
+	<tr>
+		<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s0um0r0y&theme=nord_dark"></td>
+	</tr>
+	</table>
 
 ### Connect With Me
 
@@ -39,10 +49,10 @@
   <a href="https://github.com/s0um0r0y">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32"/>
   </a>
-  <a href="https://leetcode.com/s0um0r0y/">
+  <!-- <a href="https://leetcode.com/s0um0r0y/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=d16c06" height="32"/>
-  </a>
-<a href="https://s0um0r0y.github.io/">
+  </a> -->
+  <a href="https://s0um0r0y.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" height="32"/>
   </a>
 </p>
