@@ -38,6 +38,11 @@
 | ![top-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s0um0r0y&theme=tokyonight&layout=compact&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2) | ![streak](https://github-readme-streak-stats.herokuapp.com?user=s0um0r0y&theme=tokyonight&hide_border=true&background=00000000&stroke=34E6F2&ring=34E6F2&fire=34E6F2&currStreakLabel=C4DBE0&sideNums=C4DBE0&currStreakNum=34E6F2&dates=C4DBE0&sideLabels=C4DBE0) |
 -->
 
+<p align="left">
+<a href="https://git.io/streak-stats">
+	<img src="https://github-readme-streak-stats-tau-lake-96.vercel.app?user=s0um0r0y&theme=tokyonight&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" />
+</a>
+
 <table>
   <!-- <tr>
     <td colspan = "2"><img width=100% src="https://github-profile-trophy.vercel.app/?username=saivishwak&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></td>
@@ -48,7 +53,8 @@
 	<tr>
 		<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s0um0r0y&theme=nord_dark"></td>
 	</tr>
-	</table>
+</table>
+</p>
 
 ### Connect With Me
 
