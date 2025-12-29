@@ -40,7 +40,7 @@
 
 <p align="left">
 <a href="https://git.io/streak-stats">
-	<img src="https://github-readme-streak-stats-tau-lake-96.vercel.app?user=s0um0r0y&theme=tokyonight&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" />
+	<img src="https://github-readme-streak-stats-tau-lake-96.vercel.app?user=s0um0r0y&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
 </a>
 
 <table>
