@@ -1,9 +1,9 @@
 
 ![Beige Feminine Personal LinkedIn Banner](https://github.com/user-attachments/assets/8621d77b-ad15-4adb-bb9b-b99b0ca45992)
 
--  I’m currently working on **computer vision for dynamic obstacle segmentation**
+-  I’m currently working on **computer vision algorithms for long range/sparse 3D scene understanding**
 
--  I’m currently learning **deep learning based approaches for robotics**
+-  I’m currently learning **ways to make robots see the world easily**
 
 -  I’m looking to collaborate on **open source research AI/ML and robotics projects**
 
