@@ -26,6 +26,11 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![ROS](https://img.shields.io/badge/-ROS-05122A?style=flat&logo=ROS)
 
+### Highlights & Projects
+- [MSALT](https://github.com/LiDAR-Motion-Segmentation/MSALT) - Multi Sensor Annotation Labelling Tool for annotating images and 3D pointclouds side by side with automation for improved efficiency and accuracy using AI aoutomations.
+- [Baselines-Track](https://github.com/LiDAR-Motion-Segmentation/baseline-scripts) - 3D pointcloud automatic annotation pipeline for tracking moving and static people in a dynamic scene.
+- Published my first research paper on assistive robotics at IEEE INDICON 24 conference.
+
 ### Github Stats
   
 </div>
